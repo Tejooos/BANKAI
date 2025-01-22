@@ -1,4 +1,4 @@
 # BANKAI
 This is my first GIT repository
 <br>
-Author : Tejas
+Author : Tejas the God
